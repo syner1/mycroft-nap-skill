@@ -18,6 +18,7 @@ On a Mark 1 this also dims the eyes.
 
 ## Credits 
 Mycroft AI (@MycroftAI)
+zelmon64 (correct wake word)
 
 ## Category
 **Daily**
